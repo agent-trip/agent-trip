@@ -10,8 +10,7 @@
   - [App mobile](#app-mobile)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Contribua](#contribua)
-- [Agradecimentos e Referências](#agradecimentos-e-referências)
+- [Contato](#contato)
 
 ---
 
@@ -187,6 +186,23 @@ Com o Agent Trip cada viagem se torna uma experiência perfeitamente planejada e
 ---
 
 ### Backend/APIs
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
+
 **Arquitetura & Stack**
 - **NestJS 11** (TS 5.7, Node 20). Módulos: `Common`, `Currency`, `Content`, `LocationSearch`, `Health`.
 - Persistência híbrida: **Prisma + PostgreSQL** (Accelerate) e **Firestore** via Firebase Admin.
@@ -245,7 +261,7 @@ Com o Agent Trip cada viagem se torna uma experiência perfeitamente planejada e
 
 ## Funcionalidades
 - **Landing Page (estável):** Hero/CTA; captura de e-mail com App Check; `/api/subscribe` (Mailchimp); “Como Funciona”; “Features”; SEO/JSON-LD/sitemap/robots.
-- **Backend/APIs (implementado):** Cotações (histórico + sync HG Brasil); Conteúdos (CRUD + thumbnail Storage); Busca de locais (Mapbox/Google com cache/sessões); Health.
+- **Backend/APIs (implementado):** Cotações (histórico + sync com provedor externo); Conteúdos (CRUD + thumbnail Storage); Busca de locais (Mapbox/Google com cache/sessões); Health.
 - **App (estáveis):** Splash, Auth (email/sociais/upgrade), Onboarding, Home, Trips, Favoritos.  
 - **App (em progresso):** Detalhes de destino; formulários Transporte/Hospedagem/Atividade; Orçamento/Anexos (estado local, persistência pendente).
 
@@ -265,6 +281,3 @@ Com o Agent Trip cada viagem se torna uma experiência perfeitamente planejada e
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-## Agradecimentos e Referências
-> Informação pendente - aguardar resposta do Codex.
