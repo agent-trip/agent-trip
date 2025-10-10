@@ -1,6 +1,6 @@
 # Agent Trip
 
-> Planejamento Simples, Viagens Perfeitas.
+ ### **Planejamento Simples, Viagens Perfeitas.**
 
 ## Índice
 - [Sobre o Projeto](#sobre-o-projeto)
@@ -15,7 +15,6 @@
 
 ---
 
-## Sobre o Projeto
 # Proposta de Valor
 
 # Agent Trip
@@ -185,14 +184,6 @@ Com o Agent Trip cada viagem se torna uma experiência perfeitamente planejada e
 **Funcionalidades**
 - Hero pré-lançamento, captura de e-mail com bloqueio automático sem App Check, seções “Como Funciona” e “Features”, SEO + JSON-LD + sitemap/robots. **Status:** estável.
 
-**CI/CD & Qualidade**
-- Lint: `next lint`.  
-- Testes automatizados, pipelines e badges: **Não encontrado** no repositório.
-
-**Licença e Metadados**
-- Licença: **Não encontrado**.
-- Observação: credenciais `firebase-key.json` versionadas para uso local — revisar segurança.
-
 ---
 
 ### Backend/APIs
@@ -203,7 +194,7 @@ Com o Agent Trip cada viagem se torna uma experiência perfeitamente planejada e
 - **Swagger** em `/api/docs`, CORS e prefixo global `/api`.
 
 **Implementações-chave**
-- **Currency**: CRUD, histórico, sync com HG Brasil; grava em Firestore e PostgreSQL; scheduler opcional.
+- **Currency**: CRUD, histórico, sync com provedor externo grava em Firestore e PostgreSQL; scheduler opcional.
 - **Content**: CRUD com upload de thumbnail ao Firebase Storage; filtros por tipo/data/tags; espelhamento em PostgreSQL.
 - **LocationSearch**: proxy com cache, tokens de sessão (autocomplete/detalhes), valid. de origem.
 - **Health**: liveness/readiness via `@nestjs/terminus`.
@@ -215,15 +206,7 @@ Com o Agent Trip cada viagem se torna uma experiência perfeitamente planejada e
 **Status formal:** **Não encontrado** no repositório.
 
 **CI/CD & Qualidade**
-- GitHub Actions (`.github/workflows/deploy.yml`) em `release/**`: build, auth GCP, **Cloud Run** deploy, regras Firestore/Storage, Cloud Scheduler.  
-- `lint`/`test` existem mas **não** executados no workflow.  
-- Cobertura/badges: **Não encontrado**.  
-- Testes presentes apenas para `app.controller` (unit/e2e) e “Hello World!”.
-
-**Licença e Metadados**
-- `package.json`: **UNLICENSED**.  
-- Arquivo LICENSE: **Não encontrado**.  
-- Autor/metadata: não preenchidos.
+- GitHub Actions `release/**`: build, auth GCP, **Cloud Run** deploy, regras Firestore/Storage, Cloud Scheduler.  
 
 ---
 
@@ -247,16 +230,6 @@ Com o Agent Trip cada viagem se torna uma experiência perfeitamente planejada e
 - **Estáveis**: Splash (aquecimento + roteamento), autenticação (email/sociais/upgrade anônimo), onboarding (preferências), Home (perfil, conteúdos, favoritos, cotações), Trips (listar/criar/validar períodos/merge destinos, atualização via backend quando disponível), Favoritos (listar/filtrar/remover/abrir links).
 - **Em progresso**: Detalhe de destino; formulários de transporte/hospedagem/atividade; orçamento e anexos manipulando apenas estado local (dependem de métodos não implementados).
 
-**CI/CD & Qualidade**
-- Lint: `flutter_lints`.  
-- Testes: apenas template padrão de contador.  
-- Scripts de cobertura, pipelines e badges: **Não encontrado**.
-
-**Licença e Metadados**
-- Licença: **Não encontrado**.  
-- `pubspec.yaml` contém metadados (nome, descrição, homepage, keywords).  
-- Android: flavours `dev/prod` com Firebase BoM/Crashlytics/Perf; iOS: plists separados e entitlements (Sign in with Apple/App Attest).
-
 ---
 
 ## Funcionalidades
@@ -272,7 +245,15 @@ Com o Agent Trip cada viagem se torna uma experiência perfeitamente planejada e
 
 
 ## Contato
-> Informação pendente - aguardar resposta do Codex.
+
+<div align="left">
+  <a href="contato@agenttrip.com.br" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/agent.trip/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
 
 ## Agradecimentos e Referências
 > Informação pendente - aguardar resposta do Codex.
