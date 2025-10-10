@@ -3,7 +3,7 @@
  ### **Planejamento Simples, Viagens Perfeitas.**
 
 ## Índice
-- [Sobre o Projeto](#sobre-o-projeto)
+- [Sobre o Projeto](#proposta-de-valor)
 - [Arquitetura](#arquitetura)
   - [Landing Page](#landing-page)
   - [Backend/APIs](#backendapis)
@@ -37,9 +37,7 @@ Planejamento Simples, Viagens Perfeitas
 ### Entrega de Valor:
 
 <aside>
-💡
-
-**O que Agent Trip te proporciona ?**
+💡 **O que Agent Trip te proporciona ?**
 
 Planejamento Simples, Viagens Perfeitas
 
@@ -124,9 +122,7 @@ Planejamento Simples, Viagens Perfeitas
 ### Queremos ir além :
 
 <aside>
-💡
-
-**O que mais Agent Trip pode te proporciona ?**
+💡 **O que mais Agent Trip pode te proporciona ?**
 
 “Planeje com precisão, viaje sem preocupações”
 
@@ -158,9 +154,7 @@ Planejamento Simples, Viagens Perfeitas
     - Experiências recomendadas
 
 <aside>
-💡
-
-Com o Agent Trip cada viagem se torna uma experiência perfeitamente planejada e personalizada, garantindo que você aproveite ao máximo cada momento.
+💡 Com o Agent Trip cada viagem se torna uma experiência perfeitamente planejada e personalizada, garantindo que você aproveite ao máximo cada momento.
 
 
 ---
