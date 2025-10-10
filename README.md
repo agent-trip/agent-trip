@@ -168,6 +168,15 @@ Com o Agent Trip cada viagem se torna uma experiência perfeitamente planejada e
 ## Arquitetura
 
 ### Landing Page
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 **Arquitetura & Stack**
 - Next.js **15.2.4** (App Router) com React 19; renderização estática forçada (`dynamic='force-static'`, `revalidate=false`).
 - Layout com SEO avançado + JSON-LD (`src/app/layout.tsx`, `src/lib/jsonld.ts`), `sitemap` e `robots`.
