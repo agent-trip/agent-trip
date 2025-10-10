@@ -116,14 +116,11 @@ Planejamento Simples, Viagens Perfeitas
         - Tracking de preços das moedas desejadas e sua conformidade com budget definido
         
 
-### Queremos ir além :
+## 🚀 Queremos ir além
 
-<aside>
-💡 **O que mais Agent Trip pode te proporciona ?**
+### O que mais o Agent Trip pode te proporcionar?
 
-“Planeje com precisão, viaje sem preocupações”
-
-</aside>
+> **Planeje com precisão. Viaje sem preocupações.**
 
 1. **Recomendações Personalizadas:** *Explore sugestões únicas de lugares, eventos e atrações que combinam com seu perfil.*
     
@@ -150,9 +147,8 @@ Planejamento Simples, Viagens Perfeitas
     - Dicas da comunidade
     - Experiências recomendadas
 
-<aside>
-💡 Com o Agent Trip cada viagem se torna uma experiência perfeitamente planejada e personalizada, garantindo que você aproveite ao máximo cada momento.
-
+> ✈️ **Com o Agent Trip, suas viagens ganham propósito, fluidez e significado.**  
+> Porque planejar com inteligência é o primeiro passo para viver experiências inesquecíveis.
 
 ---
 
