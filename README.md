@@ -34,14 +34,11 @@ Planejamento Simples, Viagens Perfeitas
 
 ---
 
-### Entrega de Valor:
+## 💡 Entrega de Valor
 
-<aside>
-💡 ### **O que Agent Trip te proporciona ?**
+### O que o Agent Trip te proporciona?
 
-Planejamento Simples, Viagens Perfeitas
-
-</aside>
+> **Planejamento simples. Viagens perfeitas.**
 
 1. **Busca por Destinos Ideais:** *Descubra novos lugares com base em seus interesses e histórico de viagem.*
     - Busca inteligente de destinos
