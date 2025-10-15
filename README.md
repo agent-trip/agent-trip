@@ -258,7 +258,7 @@ Planejamento Simples, Viagens Perfeitas
 **Funcionalidades**
 - **Estáveis**: Splash (aquecimento + roteamento), autenticação (email/sociais/upgrade anônimo), onboarding (preferências), Home (perfil, conteúdos, favoritos, cotações), Trips (listar/criar/validar períodos/merge destinos, atualização via backend quando disponível), Favoritos (listar/filtrar/remover/abrir links).
 - **Em progresso**: Detalhe de destino; formulários de transporte/hospedagem/atividade; orçamento e anexos manipulando apenas estado local (dependem de métodos não implementados).
-
+ 
 ---
 
 ## Funcionalidades
