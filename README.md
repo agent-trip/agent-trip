@@ -1,154 +1,60 @@
 # Agent Trip
 
- ### **Planejamento Simples, Viagens Perfeitas.**
+### ✈️ Planejamento Simples, Viagens Perfeitas.
+
+> *"Toda viagem boa poderia ter sido inesquecível."*
+>
+> Entre o desejo de viajar e a experiência de viver existe um abismo de complexidade, fragmentação e decisões solitárias. O Agent Trip é a ponte — transforma preparação em descoberta, para que o desconhecido deixe de ser ameaça e vire a melhor parte da viagem.
+
+<a href="https://agenttrip.com.br">
+  <img src="https://img.shields.io/badge/Website-agenttrip.com.br-14B8A6?style=for-the-badge&logo=safari&logoColor=white" alt="Agent Trip Website" />
+</a>
+<a href="https://apps.apple.com/app/agent-trip">
+  <img src="https://img.shields.io/badge/App_Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" />
+</a>
+<a href="https://play.google.com/store/apps/details?id=br.com.agenttrip">
+  <img src="https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
+</a>
+
+---
 
 ## Índice
-- [Sobre o Projeto](#proposta-de-valor)
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Status Atual](#status-atual)
 - [Arquitetura](#arquitetura)
   - [Landing Page](#landing-page)
   - [Backend/APIs](#backendapis)
-  - [App mobile](#app-mobile)
-- [Funcionalidades](#funcionalidades)
+  - [App Mobile](#app-mobile)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Contato](#contato)
 
 ---
 
-# Proposta de Valor
+## Sobre o Projeto
 
-# Agent Trip
+O **Agent Trip** é um app de viagem brasileiro focado em mulheres de 25 a 44 anos que viajam com família, amigas ou em casal. Desenvolvido de ponta a ponta por um solo founder — do produto à infraestrutura.
 
-Planejamento Simples, Viagens Perfeitas
+**O problema:** Quem viaja hoje enfrenta dois caminhos — pesquisar sozinha (15 abas, planilha, WhatsApp, noites perdidas, ninguém agradece) ou "resolver na hora" (gasta mais, vive menos, volta dizendo "foi bom"). O Agent Trip é o Caminho 3.
 
-### **Proposta de Valor**
+**A solução — 3 pilares:**
+- 🔍 **Descoberta** — Destinos e experiências personalizadas que a pessoa não encontraria sozinha
+- 📋 **Centralidade** — Viagem completa em um lugar só: dia a dia, orçamento, cotações, tudo integrado
+- 📡 **Acompanhamento** — Cotações em tempo real, notificações e controle financeiro do desejo ao retorno
 
-> Organize sua viagem do início ao fim. Desde a escolha seu destino ao último dia de aventura, com planejamento inteligente e controle total do seu orçamento e atividades, o Agent Trip oferece tudo o que você precisa para transformar suas viagens em experiências inesquecíveis.
-> 
+**Diferencial:** Gera uma viagem personalizada — dia a dia, com orçamento — em 30 segundos. Não em 3 semanas.
 
----
-
-### Descrição Detalhada:
-
-> O **Agent Trip** é o aplicativo essencial para quem busca organizar e planejar viagens com praticidade e precisão. Com foco em proporcionar controle total e personalização, o app integra todas as etapas do planejamento de uma viagem em uma única plataforma.
-> 
+**Números atuais:** 200+ downloads · ~100 cadastros (50% conversão) · Primeiras transações reais · App Store + Google Play
 
 ---
 
-## 💡 Entrega de Valor
+## Status Atual
 
-### O que o Agent Trip te proporciona?
-
-> **Planejamento simples. Viagens perfeitas.**
-
-1. **Busca por Destinos Ideais:** *Descubra novos lugares com base em seus interesses e histórico de viagem.*
-    - Busca inteligente de destinos
-    - Duração da viagem
-    - **Melhores Datas para Viajar:** *Receba sugestões das datas mais convenientes e econômicas para sua viagem.*
-        - Análise de melhor período (preços e clima)
-        - Planejamento adaptável para viagens com datas fixas ou flexíveis.
-        - Visualização de preços e disponibilidade para diferentes períodos.
-        
-2. **Passagens Áreas**
-    - Busca e comparação de voos
-    - Alertas de melhor momento para compra
-    - Monitoramento de promoções
-    - Filtros de preferências (horários, companhias, escalas)
-    - Gestão de milhas e programas de fidelidade
-    - Definição de budget para gasto com Passagens Áreas
-        - Tracking dos preços das hospedagem desejadas e sua conformidade com budget definido
-        
-3. **Acomodação**
-    - Busca de hospedagens por data
-    - Gestão de check-in/check-out
-    - Comparativo de preços e localizações
-    - Reservas integradas
-    - Definição de budget para gasto com hospedagem
-        - Tracking dos preços das Passagens Áreas desejadas e sua conformidade com budget definido
-        
-4. **Roteiro de Atividades**
-    - Organização dia a dia
-    - Horários de funcionamento
-    - Tempo estimado em cada local
-    - Distâncias e deslocamentos
-    - Reservas em restaurantes
-    - Ingressos para atrações
-    
-5. **Controle Financeiro**
-    - Orçamento total da viagem
-    - Divisão por categorias:
-        - Hospedagem
-        - Transporte
-        - Alimentação
-        - Atrações
-        - Compras
-    - Tracking de gastos planejados vs. realizados
-    - Cotação de moedas em tempo real
-    
-6. **Aluguel de Veículos e Locomoção**
-    - Aluguel de veículos
-        - Comparativo de preços e locadoras
-        - Diferentes categorias de veículos
-        - Pontos de retirada e devolução
-    - Transporte público
-        - Passes e bilhetes
-        - Rotas principais
-    - Transfers
-    - Aplicativos de mobilidade locais
-    - Estimativa de custos por opção
-    - Definição de budget para gasto com locomoção
-        - Tracking dos preços de aluguel de carro desejados e sua conformidade com budget definido
-        
-7. **Aquisição de Moeda Estrangeira** : *Organização e planejamento geram **economia** financeira e uma viagem tranquila*
-    - Planejamento de câmbio
-        - Tracking de cotações
-        - Alertas de melhor momento para compra
-        - Comparativo entre casas de câmbio
-        - Simulador de valores
-    - Modalidades de câmbio
-        - Papel moeda
-        - Cartão pré-pago
-        - Cartão de crédito internacional
-    - Definição de estratégia de uso
-        - Quanto levar em cada modalidade
-        - Onde usar cada tipo de pagamento
-        - Reserva de emergência
-    - Definição de budget para aquisição de moeda estrangeira
-        - Tracking de preços das moedas desejadas e sua conformidade com budget definido
-        
-
-## 🚀 Queremos ir além
-
-### O que mais o Agent Trip pode te proporcionar?
-
-> **Planeje com precisão. Viaje sem preocupações.**
-
-1. **Recomendações Personalizadas:** *Explore sugestões únicas de lugares, eventos e atrações que combinam com seu perfil.*
-    
-    **AI Travel Assistant**
-    
-    - Sugestões contextuais
-    - Otimização de roteiros
-    - Dicas de planejamento
-    - Sugestões em tempo real para ajustar o planejamento
-    
-2. **Conteúdos Exclusivos:** *Acesse artigos, vídeos e guias detalhados sobre seu destino, reunidos de diversas fontes na internet.*
-    - Acesso a guias, artigos e vídeos sobre destinos e experiências.
-    - Dicas de viajantes
-    - Avaliações de locais
-    
-3. **Pacotes Personalizados para Eventos**
-    - Planejamento colaborativo para viagens em grupo e financiamento coletivo para experiências únicas.
-    
-4. **Experiências Inspiradoras**
-    - Sugestões de passeios e atividades exclusivas no destino.
-    
-5. **Social e Compartilhamento**
-    - Compartilhamento de roteiros
-    - Dicas da comunidade
-    - Experiências recomendadas
-
-> ✈️ **Com o Agent Trip, suas viagens ganham propósito, fluidez e significado.**  
-> Porque planejar com inteligência é o primeiro passo para viver experiências inesquecíveis.
+| Camada | Status |
+|--------|--------|
+| **Landing Page** | ✅ Estável — Hero, captura de e-mail, geração de roteiros AI, blog, pagamento, SEO |
+| **Backend/APIs** | ✅ Implementado — 15+ módulos (auth, pagamentos, IA, cotações, localização, conteúdo, e-mail, push) |
+| **App (core)** | ✅ Estável — Auth, onboarding, home, criação de viagens, favoritos, cotações |
+| **App (em progresso)** | 🔧 Detalhes de destino, formulários de transporte/hospedagem/atividade, orçamento |
 
 ---
 
@@ -181,9 +87,6 @@ Planejamento Simples, Viagens Perfeitas
 - `EmailSubscriptionForm` valida e bloqueia submissão sem App Check; feedback visual com ícones.
 - API `/api/subscribe` integra **Mailchimp**, valida ambiente, decodifica tokens via **Firebase Admin**.
 - `middleware` injeta cabeçalhos e limita 3 req/min para `/api/subscribe`.
-
-**Funcionalidades**
-- Hero pré-lançamento, captura de e-mail com bloqueio automático sem App Check, seções “Como Funciona” e “Features”, SEO + JSON-LD + sitemap/robots. **Status:** estável.
 
 ---
 
@@ -219,16 +122,12 @@ Planejamento Simples, Viagens Perfeitas
 - Infra: Firebase Admin com múltiplas credenciais e suporte a emuladores; regras versionadas (`firestore.rules`, `storage.rules`).
 - Monitoramento: interceptors para métricas HTTP/DB no Cloud Monitoring.
 
-**Funcionalidades**
-- Gestão de cotações com histórico e sync externa; endpoints de conteúdo; busca/autocomplete/detalhes de locais; health-checks; endpoint raiz de verificação.  
-**Status formal:** **Não encontrado** no repositório.
-
 **CI/CD & Qualidade**
-- GitHub Actions `release/**`: build, auth GCP, **Cloud Run** deploy, regras Firestore/Storage, Cloud Scheduler.  
+- GitHub Actions `release/**`: build, auth GCP, **Cloud Run** deploy, regras Firestore/Storage, Cloud Scheduler.
 
 ---
 
-### App mobile
+### App Mobile
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
@@ -249,29 +148,21 @@ Planejamento Simples, Viagens Perfeitas
 
 **Implementações-chave**
 - **Auth**: login anônimo, upgrade de credenciais, sociais (Facebook/Google/Apple) com cache, ATT e validação.
-- **FirestoreService**: orquestra DTO↔domínio, upload de docs; várias operações ainda em `mock/TODO`.
+- **FirestoreService**: orquestra DTO↔domínio, upload de docs.
 - **CurrencyRatesService**: stream única com `BehaviorSubject` + watchers Firestore.
 - **LocationService**: chama API própria via Dio com token do `IAuthService` + Crashlytics; fallback para mocks.
-- **MapService**: abre Google/Apple/Waze/Web.  
-- Logging/erros: `LoggingService` e `ErrorService` → Crashlytics; `BusinessAnalyticsService` com TODOs.
+- **MapService**: abre Google/Apple/Waze/Web.
+- Logging/erros: `LoggingService` e `ErrorService` → Crashlytics.
 
-**Funcionalidades**
-- **Estáveis**: Splash (aquecimento + roteamento), autenticação (email/sociais/upgrade anônimo), onboarding (preferências), Home (perfil, conteúdos, favoritos, cotações), Trips (listar/criar/validar períodos/merge destinos, atualização via backend quando disponível), Favoritos (listar/filtrar/remover/abrir links).
-- **Em progresso**: Detalhe de destino; formulários de transporte/hospedagem/atividade; orçamento e anexos manipulando apenas estado local (dependem de métodos não implementados).
- 
 ---
 
-## Funcionalidades
-- **Landing Page (estável):** Hero/CTA; captura de e-mail com App Check; `/api/subscribe` (Mailchimp); “Como Funciona”; “Features”; SEO/JSON-LD/sitemap/robots.
-- **Backend/APIs (implementado):** Cotações (histórico + sync com provedor externo); Conteúdos (CRUD + thumbnail Storage); Busca de locais (Mapbox/Google com cache/sessões); Health.
-- **App (estáveis):** Splash, Auth (email/sociais/upgrade), Onboarding, Home, Trips, Favoritos.  
-- **App (em progresso):** Detalhes de destino; formulários Transporte/Hospedagem/Atividade; Orçamento/Anexos (estado local, persistência pendente).
-
 ## Tecnologias Utilizadas
+
 - **Landing Page:** Next.js 15.2.4, React 19, Tailwind 4, shadcn/ui, Firebase (App Check/Admin), Mailchimp, framer-motion, rate limit/CORS middleware.
 - **Backend/APIs:** NestJS 11 (TS 5.7, Node 20), Prisma + PostgreSQL (Accelerate), Firebase Admin (Firestore/Storage), Mapbox, Google Places, Cloud Monitoring, Swagger.
-- **App mobile:** Flutter, flutter_bloc, go_router, injectable/get_it, dio, dartz, json_serializable, Firebase (Auth/Remote Config/App Check/Analytics), file_picker, map_launcher, app_tracking_transparency.
+- **App Mobile:** Flutter, flutter_bloc, go_router, injectable/get_it, dio, dartz, json_serializable, Firebase (Auth/Remote Config/App Check/Analytics), file_picker, map_launcher, app_tracking_transparency.
 
+---
 
 ## Contato
 
@@ -281,5 +172,11 @@ Planejamento Simples, Viagens Perfeitas
   </a>
   <a href="https://www.instagram.com/agent.trip/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://agenttrip.com.br" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=safari&label=&color=14B8A6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/marcos-lacerda" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Founder&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
