@@ -51,10 +51,10 @@ O **Agent Trip** é um app de viagem brasileiro focado em mulheres de 25 a 44 an
 
 | Camada | Status |
 |--------|--------|
-| **Landing Page** | ✅ Estável — Hero, captura de e-mail, geração de roteiros AI, blog, pagamento, SEO |
-| **Backend/APIs** | ✅ Implementado — 15+ módulos (auth, pagamentos, IA, cotações, localização, conteúdo, e-mail, push) |
-| **App (core)** | ✅ Estável — Auth, onboarding, home, criação de viagens, favoritos, cotações |
-| **App (em progresso)** | 🔧 Detalhes de destino, formulários de transporte/hospedagem/atividade, orçamento |
+| **Landing Page** | ✅ Estável — Hero, geração de roteiros AI, blog, pagamento integrado, SEO |
+| **Backend/APIs** | ✅ Estável — 15+ módulos (auth, pagamentos, IA, cotações, localização, conteúdo, e-mail, push) |
+| **App Mobile** | ✅ Publicado — App Store + Google Play. Auth, onboarding, criação de viagens, favoritos, cotações |
+| **Próximas versões** | 🚀 Detalhes de destino, transporte, hospedagem, atividades, orçamento detalhado |
 
 ---
 
@@ -63,6 +63,18 @@ O **Agent Trip** é um app de viagem brasileiro focado em mulheres de 25 a 44 an
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=agent-trip&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
+
+### 📂 Estrutura de Repositórios
+
+| Repositório | Descrição | Stack |
+|-------------|-----------|-------|
+| [`app`](https://github.com/agent-trip/app) | App mobile (iOS + Android) | Flutter, Dart, BLoC, GoRouter, Firebase |
+| [`api`](https://github.com/agent-trip/api) | Backend e APIs | NestJS, TypeScript, Prisma, PostgreSQL, GCP |
+| [`landing-page`](https://github.com/agent-trip/landing-page) | Landing page + blog | Next.js, React, Tailwind, Firebase |
+
+> 🔒 Os repositórios são privados. Acesso disponível sob solicitação para avaliação técnica — entre em contato via [LinkedIn](https://www.linkedin.com/in/marcos-lacerda).
+
+---
 
 ### Landing Page
 
