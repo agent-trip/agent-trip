@@ -54,7 +54,6 @@ O **Agent Trip** é um app de viagem brasileiro focado em mulheres de 25 a 44 an
 | **Landing Page** | ✅ Estável — Hero, geração de roteiros AI, blog, pagamento integrado, SEO |
 | **Backend/APIs** | ✅ Estável — 15+ módulos (auth, pagamentos, IA, cotações, localização, conteúdo, e-mail, push) |
 | **App Mobile** | ✅ Publicado — App Store + Google Play. Auth, onboarding, criação de viagens, favoritos, cotações |
-| **Próximas versões** | 🚀 Detalhes de destino, transporte, hospedagem, atividades, orçamento detalhado |
 
 ---
 
