@@ -9,10 +9,10 @@
 <a href="https://agenttrip.com.br">
   <img src="https://img.shields.io/badge/Website-agenttrip.com.br-14B8A6?style=for-the-badge&logo=safari&logoColor=white" alt="Agent Trip Website" />
 </a>
-<a href="https://apps.apple.com/app/agent-trip">
+<a href="https://apps.apple.com/br/app/agent-trip-planejar-viagem/id6749809858">
   <img src="https://img.shields.io/badge/App_Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" />
 </a>
-<a href="https://play.google.com/store/apps/details?id=br.com.agenttrip">
+<a href="https://play.google.com/store/apps/details?id=br.com.agenttrip.app">
   <img src="https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
 </a>
 
